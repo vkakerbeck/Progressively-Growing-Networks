@@ -11,7 +11,7 @@ some additional context. The file TestAccuracies.csv contains all my results and
 * pandas
 * pickle
 
-For ploting and data analysis:
+For plotting and data analysis:
 
 * matplotlib
 * seaborn
